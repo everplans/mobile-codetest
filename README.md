@@ -1,7 +1,7 @@
 # News Clone graphQL API
 This codebase is a trivial GraphQL based API that emulates a news clone (similar to Hackernews or Redit). 
 
-See the CODETEST.MD file for instructions on the larger code test. 
+See the [CODETEST.md](CODETEST.md) file for instructions on the larger code test. 
 
 This readme is all about the API, how to get it running, and the details of how to use the api. 
 
