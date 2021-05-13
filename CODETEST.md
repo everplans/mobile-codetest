@@ -6,7 +6,7 @@ Congrats! You've been invited to complete a take-home code test. We're very exci
 
 This test is an opportunity for the Everplans developer pannel to see a reasonably non-trivial sample of how you write code. Over the years we have found this is a great context for evaluating how you can be an effective member of the team. We prefer this over asking you to solve code problems live, in front of other people--as though it may be an impressive skill in and of itself, it has little bearing on how you'll peform on the job, with our team. 
 
-Please don't feel compelled to complete anything more than the minimum requirements for this test, as we want to be respectful of your time. 
+This is an aribrary app by design, it's not meant to be fully featured. Please don't feel compelled to complete anything more than the minimum requirements for this test, as we want to be respectful of your time. (If you do want to embelish, go for it! But it's really not necessary!)
 
 
 ## The Test
@@ -30,7 +30,9 @@ Please don't feel compelled to complete anything more than the minimum requireme
   * Login (with requisite login/logout functionality)
   * Feed: (see all posted links, upvote, and post) -- see attached API [REAMDE](README.md), for specific details -- but all funtionality must be wired up and working with the API. 
 
-* Session (see [README.md](README.md) for instructions on how to set the authorization headers.
+* Session: See [README](README.md) for instructions on how to set the authorization headers.
+
+* UI Interactions. If you press the "play" button in the figma web ap, you can get a "clickable demo". Pay attention to the screen transitions, and--specifically-- the feedback animation when you upvote a link. If you'd like to embelish the animations and make them more elaborate, go ahead, but at least do the minimal bit of visual feedback. 
 
 * Tests: We'd like to see how you think about testing, and how you code. We expect to see at least some unit tests, and hopefully more, depending on what you think is necessary. We'll plan on discussing your approach to testing, including unit, UI, and ingegration--in the interview process. Include instructions for running tests.
 
@@ -41,6 +43,7 @@ Please don't feel compelled to complete anything more than the minimum requireme
 * If you are confused or need clarification, or more information, don't be shy! Speak up! Please ask us questions. When in doubt your recruiter can help facilitate who best to speak with. 
 
 * Double check that you've read everything, and have done your work accordingly. Attention to detail matters!
+
 
 ## Gotchas
 * You may have to play with adding explicit types to some of the queries, to get it to work with Swift Typing. 
