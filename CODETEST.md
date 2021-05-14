@@ -12,7 +12,7 @@ This is an aribrary app by design, it's not meant to be fully featured. Please d
 ## The Test
 * Create a mobile iOS app in the language/framework of your choice (all things being equal, swift is our preferece) which is the UI/end user experience for a News/Link post clone (a la Hacker News or Reddit). There are specfic UI mocks and instructions included.
 
-* It's easiest to submit a repo/link of an XCode project which should build and run on the simulator. It is not necessary for this to run on multiple device targets. Just pick a single device target.
+* It's easiest to submit a repo/link of an Xcode project which should build and run on the simulator. It is not necessary for this to run on multiple device targets. Just pick a single device target.
 
 * The app should connect and communicate with the API which is included as a Docker image in this repo. The app should connect to the server locally. See the [README](README.md) for instructions on how to build and run the docker image, and how to interact with the API.
 
